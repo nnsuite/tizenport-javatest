@@ -17,5 +17,8 @@ NOTHING TO SAY
 
 %build
 javac HelloWorld.java
+java HelloWorld
+
+%install
 
 %files
